@@ -80,7 +80,7 @@ Please remember anyone can airdrop tokens to VisionDefi users since every transa
 
 You're most likely not connected to Binance Smart Chain within your wallet.
 
-## What is the max supply of CAKE?
+## What is the max supply of VISION?
 
 210,000,000 VISION.
 
