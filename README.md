@@ -12,11 +12,11 @@ The [exchange](products/exchange/) is an automated market maker \(“AMM”\) th
 
 ### 💸 Earn
 
-On top of that, you can earn CAKE with [yield farms](), earn CAKE with Staking, and earn even more tokens with [Syrup pools]().
+On top of that, you can earn VISION with [Yield Farms](products/yield-farming/), earn VISION with Staking, and earn even more tokens with [Staking Pools](products/yield-farming/).
 
 ### 🎲 Win
 
-Win big with the [PancakeSwap Lottery](products/lotter/)!
+Win big with the [VisionDefi Lottery](products/lottery/)!
 
 ## **Why Binance Smart Chain \(BSC\)?**
 

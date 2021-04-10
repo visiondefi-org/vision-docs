@@ -18,9 +18,9 @@
 * [Yield Farming](products/yield-farming/README.md)
   * [Farming Referral Program](products/yield-farming/farming-referral-program.md)
   * [How to farm on VisionDefi](products/yield-farming/how-to-farm-on-visiondefi.md)
-* [Lottery](products/lotter/README.md)
-  * [Lottery FAQ](products/lotter/lottery-faq.md)
-  * [How to Take Part in the VisionDefi Lottery](products/lotter/how-to-take-part-in-the-visiondefi-lottery.md)
+* [Lottery](products/lottery/README.md)
+  * [Lottery FAQ](products/lottery/lottery-faq.md)
+  * [How to Take Part in the VisionDefi Lottery](products/lottery/how-to-take-part-in-the-visiondefi-lottery.md)
 * [Launchpool](products/launch-pool.md)
 * [Analytics](products/visiondefi-analytics.md)
 
