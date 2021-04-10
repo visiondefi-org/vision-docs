@@ -35,36 +35,3 @@ description: VisionDefi's roadmap
 * [ ] Insuarance
 * [ ] Backend updates and developer tools
 
-## \*\*\*\*
-
-## **Full Site Rework**
-
-* [x] New homepage
-* [x] Harvest all & stake all
-* [x] Personal dashboard
-* [x] Improved UX
-* [x] Faster site
-* [x] Mobile friendly
-* [x] New navigation system
-
-## **CAKE Staking \(Syrup Pools\)**
-
-* [x] **CAKE Staking**
-* [x] **Core Pools**
-* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-
-## Other products
-
-* [x] **Lottery \(core feature\)**
-* [x] **Analytics \(core feature\)**
-* [x] **Voting \(core feature\)**
-* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
-* [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [x] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
-  * [x] First NFT round
-* [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Binary Options**
-* [ ] **Fixed-term Staking**
-* [x] **Customizable User Profile**
-
