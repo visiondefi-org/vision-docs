@@ -1,12 +1,43 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: VisionDefi's roadmap
 ---
 
 # Roadmap
 
-Ok so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
+### Q1-2021
 
-#### **Full Site Rework**
+* [x] Documents
+* [x] Farming
+* [x] Staking
+* [x] Exchange
+* [x] Lottery
+* [x] Analytics
+* [x] Launchpool
+
+### Q2-2021
+
+* [ ] NFT auction
+* [ ] NFT Marketplace
+* [ ] Audit by the top auditors
+* [ ] CEX listing
+* [ ] Integration of Corporate partnerships pools
+* [ ] Fully Implement decentralized governance
+
+### Q3-2021
+
+* [ ] Implement Gas Station Network \(Gasless transactions\)
+* [ ] Explore Bridge integration: Binance Smart Chain & Polkadot & Ethereum
+* [ ] VisionDefi Bridge \(crosschain\) launch
+
+### Q4-2021
+
+* [ ] Lending & Borrowing
+* [ ] Insuarance
+* [ ] Backend updates and developer tools
+
+## \*\*\*\*
+
+## **Full Site Rework**
 
 * [x] New homepage
 * [x] Harvest all & stake all
@@ -16,13 +47,13 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [x] Mobile friendly
 * [x] New navigation system
 
-#### **CAKE Staking \(Syrup Pools\)**
+## **CAKE Staking \(Syrup Pools\)**
 
 * [x] **CAKE Staking**
 * [x] **Core Pools**
 * [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
 
-#### Other products
+## Other products
 
 * [x] **Lottery \(core feature\)**
 * [x] **Analytics \(core feature\)**
@@ -36,8 +67,4 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [ ] **Binary Options**
 * [ ] **Fixed-term Staking**
 * [x] **Customizable User Profile**
-
-![Comin&apos; up](.gitbook/assets/image%20%281%29.png)
-
-
 

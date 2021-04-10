@@ -1,94 +1,92 @@
+---
+description: Shout out to the price bot s1mer for putting these together.
+---
+
 # FAQ
 
-## Can I become who I want to be?
+## What is VPOS?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+When you stake your $VISION, you auto-magically receive $VPOS that will be used as proof-of-stake.
 
-## Have you had a chance to answer the previous question?
+With the $VPOS received you are able to stake for rewards in the VISION Pool.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## What happens if I sell my VPOS?
 
-## Have you had a chance to answer the previous question?
+Please do not sell/exchange your $VPOS.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+If you sell your $VPOS you won't be able to unstake your $VISION as you need the same amount of $VPOS to do so.
 
-## Have you had a chance to answer the previous question?
+## How can I stake VISION?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+You can stake your VISION on the "Pools" page by clicking on the little "+" sign after approving the contract, choose the amount you want to stake and confirm.
 
-## Have you had a chance to answer the previous question?
+Staking page: [https://visiondefi.io/pools](https://visiondefi.io/pools)
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## What is the difference between staking and farming?
 
-## Have you had a chance to answer the previous question?
+STAKING: You only need to stake the token instead of a LP token in order to stake in the pools.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+FARMING: In order to farm you need to provide liquidity to one of the pools on the farming page and then stake your LP tokens.
 
-## Have you had a chance to answer the previous question?
+Both have their own advantages and disadvantages. Which one to choose is up to your strategy.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## How do I farm?
 
-## Have you had a chance to answer the previous question?
+In order to farm you first have to provide liquidity to one of the pools which you can find on the "Farm" page.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+After providing liquidity and receiving your LP tokens then select the pool you joined from the "Farm" page, approve the contract and then click on the little "+" sign, choose the amount you want to stake and confirm.
 
-## Have you had a chance to answer the previous question?
+Provide liquidity: [https://exchange.visiondefi.io/\#/swap](https://exchange.visiondefi.io/#/swap)
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Stake your LP tokens: [https://visiondefi.io/farms](https://visiondefi.io/farms)
 
-## Have you had a chance to answer the previous question?
+## How do I connect my wallet to VisionDefi?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+In order to connect your wallet you have to click on the "Unlock Wallet" button on the top-right corner of the page. After that, look for the wallet you want to connect to VisionDefi and click "connect". Approve the connection and you're good to go.
 
-## Have you had a chance to answer the previous question?
+## How do I set up my wallet on Binance Smart Chain?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Trust Wallet: When you go into the dAPP in the top-right corner you can see the different blockchains available, click on it then choose Binance Smart Chain Mainnet.
 
-## Have you had a chance to answer the previous question?
+MetaMask: Create a custom RPC with the following:
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* Network Name: BSC Mainnet
+* RPC URL: [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/)
+* ChainID: 56
+* Symbol: BNB
+* Block Explorer URL: [https://bscscan.com/](https://bscscan.com/)
 
-## Have you had a chance to answer the previous question?
+## Why is my transaction failing?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Check the TX on [https://bscscan.com/](https://bscscan.com/)
 
-## Have you had a chance to answer the previous question?
+If it says "burn amount exceeds balance" you forgot to unstake your $VPOS. \(This if the transaction fails while trying to unstake $VISION\)
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+If there is any other message it might be a problem within BSC, please try increasing the transfer fees to 20 GWEI 200,000 Gas limit.
 
-## Have you had a chance to answer the previous question?
+## When will you open more pools?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+There will always be an announcement before the launch of new pools.
 
-## Have you had a chance to answer the previous question?
+Join the announcements Telegram group to be the first that finds out.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## How do I get airdrops?
 
-v
+When there is any official airdrop going on it will be announced along with the requirements.
 
-## Have you had a chance to answer the previous question?
+Please remember anyone can airdrop tokens to VisionDefi users since every transaction is public on BSCScan. Do your own due diligence when it comes to non-official airdrops.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## Why does it say I have no BNB balance?
 
-## Have you had a chance to answer the previous question?
+You're most likely not connected to Binance Smart Chain within your wallet.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## What is the max supply of CAKE?
 
-## Have you had a chance to answer the previous question?
+210,000,000 VISION.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## Where can I check the Analytics?
 
-## Have you had a chance to answer the previous question?
+You can check the analytics of VisionDefi by click on the "Analytics" tab on the top menu or by clicking the link below.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-v
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
-
-
+Analytics: [https://info.visiondef.io/home](https://info.visiondef.io/home)
 
