@@ -12,7 +12,9 @@
 
 #### Distribution
 
-* Farming: **200,000,000 VISION** _\(95.24%\)_
-* Liquidity Seeds: **5,000,000 VISION** _\(2.38%\)_
-* Treasury: **5,000,000 VISION** \(2.38%\)
+* Foundation Reserve: **5,000,000 VISION** \(2.38%\)
+* Ecosystem Growth: **2,000,000 VISION** _\(0.95%\)_
+* Community Development: **2,000,000 VISION** \(0.95%\)
+* Liquidity Seeds: **1,000,000 VISION** _\(0.48%\)_
+* Liquidity Mining: **200,000,000 VISION** _\(95.24%\)_
 
