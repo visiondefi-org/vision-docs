@@ -2,9 +2,9 @@
 
 **200,000,000 VISION tokens will be distributed to users who participate in Farming.**
 
-* **80% farmed tokens will be distributed to all Farmers** _\(20% of them will be distributed to participants instantaneously, 80% of them will be locked for 1 year and will be distributed continuously block by block after that\)._
-* **10% farmed tokens will be distributed to development fund.**
-* **10% farmed tokens will be distributed to VisionDefi‘s Farming Referral Program.**
+* **84% farmed tokens will be distributed to all Farmers** _\(25% of them will be distributed to participants instantaneously, 75% of them will be locked for 1 year and will be distributed continuously block by block after that\)._
+* **8% farmed tokens will be distributed to development fund.**
+* **8% farmed tokens will be distributed to VisionDefi‘s Farming Referral Program.**
 
 \*\*\*\*
 

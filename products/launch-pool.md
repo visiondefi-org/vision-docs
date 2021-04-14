@@ -29,7 +29,7 @@ During Sale:
 After Sale:
 
 1. When the sale is complete, claim the IFO tokens you've bought. Your unspent funds will also be sent back to you.
-2. Done! In the case of an overflow you can unstake your remaining CAKE-BNB LP tokens.
+2. Done! In the case of an overflow you can unstake your remaining VISION-BNB LP tokens.
 
 {% hint style="info" %}
 If you decide to acquire VISION-BNB LP tokens before the IFO starts, you can stake them in the [VISION-BNB Farm](https://visiondefi.io/farms/) to earn VISION token rewards while waiting for the sale.
