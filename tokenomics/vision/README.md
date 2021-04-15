@@ -2,7 +2,7 @@
 
 #### **Information**
 
-* Contract Address: **0xbE57Cb5605Cb51F04aa54efC2C6bD2f4Fc2e7EBa**
+* Contract Address: **0x3921F72F627D20584D55e2AD387B202a1F4F36Ee**
 * Token Name: **Vision**
 * Symbol: **VISION**
 * Decimals: **18**
@@ -13,8 +13,8 @@
 #### Distribution
 
 * Foundation Reserve: **5,000,000 VISION** \(2.38%\)
-* Ecosystem Growth: **2,000,000 VISION** _\(0.95%\)_
+* Ecosystem Growth: **2,000,000 VISION** \(0.95%\)
 * Community Development: **2,000,000 VISION** \(0.95%\)
-* Liquidity Seed: **1,000,000 VISION** _\(0.48%\)_
-* Liquidity Mining: **200,000,000 VISION** _\(95.24%\)_
+* Liquidity Seed: **1,000,000 VISION** \(0.48%\)
+* Liquidity Mining: **200,000,000 VISION** \(95.24%\)
 
